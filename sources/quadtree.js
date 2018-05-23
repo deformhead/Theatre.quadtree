@@ -184,7 +184,9 @@ function Rectangle(x, y, width, height) {
 
 export {
 
-    Point,
+    // exports current module as an object
     Quadtree,
-    Rectangle
+
+    // exports helpers for current module
+    Point, Rectangle
 };
