@@ -1,1 +1,1 @@
-# Theatre.quadtree
+# quadtree
